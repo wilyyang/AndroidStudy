@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListDemo</string>
+    <string name="title_activity_chap32">Chap32Activity</string>
+    <string name="title_activity_chap33">Chap33Activity</string>
+</resources>
